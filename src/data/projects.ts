@@ -23,4 +23,12 @@ export const projects: Project[] = [
     github: 'https://github.com/martinz10one/pokedex',
     demo: 'https://martinz10one.github.io/pokedex/',
   },
+  {
+    title: 'Miniwallet',
+    description:
+      'Billetera virtual fullstack con transferencias entre usuarios, autenticación JWT y despliegue con Docker Compose.',
+    tech: ['Node.js', 'Express', 'React', 'PostgreSQL', 'Docker', 'JWT'],
+    github: 'https://github.com/martinz10one/miniwallet',
+    demo: 'https://github.com/martinz10one/miniwallet/blob/main/demo.gif',
+  },
 ]
