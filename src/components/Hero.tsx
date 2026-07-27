@@ -29,15 +29,16 @@ export default function Hero() {
               Martin Eduardo<br />Zapata Garcia
             </h1>
             <p className="text-lg md:text-xl text-muted">
-              Backend Developer
+              Frontend &amp; Backend Developer
             </p>
           </div>
         </div>
 
-        <p className="text-muted max-w-[540px] leading-relaxed">
-          Backend developer con conocimientos de frontend.
-          Código limpio, trabajo en equipo.
-        </p>
+          <p className="text-muted max-w-[540px] leading-relaxed">
+            Desarrollo web fullstack: frontend con React y backend con
+            Node.js, Python y bases de datos SQL/NoSQL. Código limpio,
+            trabajo en equipo y aprendizaje constante.
+          </p>
         <p className="text-muted mt-4 font-mono text-sm">
           $ Buscando mi primera oportunidad.
         </p>

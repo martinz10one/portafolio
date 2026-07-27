@@ -21,8 +21,8 @@ export const skills: Skill[] = [
 
 export const skillCategories = [
   { id: 'lenguajes', label: 'Lenguajes' },
-  { id: 'backend', label: 'Backend' },
   { id: 'frontend', label: 'Frontend' },
+  { id: 'backend', label: 'Backend' },
   { id: 'bases de datos', label: 'Bases de Datos' },
   { id: 'herramientas', label: 'Herramientas' },
 ] as const

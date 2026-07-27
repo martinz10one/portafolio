@@ -1,0 +1,17 @@
+=== TÍTULO DE LINKEDIN ===
+Desarrollador Backend | Node.js · Python · Express | React | PostgreSQL · MongoDB · Docker
+
+=== ABOUT / RESUMEN ===
+Desarrollador backend con Node.js y Python. Construyo APIs REST con Express y FastAPI, trabajo con PostgreSQL, MongoDB y Redis, y uso Docker para despliegues. También tengo conocimientos de frontend con React.
+
+=== APTITUDES (SKILLS) - PRIMERAS 10 ===
+1. Node.js
+2. JavaScript
+3. Python
+4. Express.js
+5. React
+6. PostgreSQL
+7. Docker
+8. Git
+9. REST APIs
+10. MongoDB
