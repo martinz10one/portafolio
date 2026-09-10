@@ -8,27 +8,9 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: 'Ecommerce Monitor',
+    title: 'EasyNotes',
     description:
-      'Demo de un sistema que monitorea cambios de precios en e-commerce. API REST con Express, frontend para visualizar cambios. El scraper real (Python + Playwright) funciona solo de forma local.',
-    tech: ['Python', 'Node.js', 'Express', 'Playwright', 'Docker'],
-    github: 'https://github.com/martinz10one/ecommerce-monitor',
-    demo: 'https://ecommerce-monitor.onrender.com',
-  },
-  {
-    title: 'Pokédex',
-    description:
-      'Buscador de Pokémon con consumo de API pública. Frontend vanilla con HTML, CSS y JavaScript. Desplegado en GitHub Pages.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/martinz10one/pokedex',
-    demo: 'https://martinz10one.github.io/pokedex/',
-  },
-  {
-    title: 'Miniwallet',
-    description:
-      'Proyecto de práctica fullstack: billetera virtual con transferencias entre usuarios, autenticación JWT y despliegue con Docker Compose. No maneja dinero real.',
-    tech: ['Node.js', 'Express', 'React', 'PostgreSQL', 'Docker', 'JWT'],
-    github: 'https://github.com/martinz10one/miniwallet',
-    demo: 'https://github.com/martinz10one/miniwallet/blob/main/demo.gif',
+      'Proyecto grande en desarrollo: aplicación completa de notas. Actualmente trabajando en este proyecto, listo para compartir cuando esté terminado.',
+    tech: ['React', 'Node.js', 'Express', 'PostgreSQL', 'Docker'],
   },
 ]
