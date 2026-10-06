@@ -1,17 +1,17 @@
 === TÍTULO DE LINKEDIN ===
-Desarrollador Backend | Node.js · Python · Express | React | PostgreSQL · MongoDB · Docker
+Front End Developer | React · TypeScript · Tailwind CSS | Node.js · Express
 
 === ABOUT / RESUMEN ===
-Desarrollador backend con Node.js y Python. Construyo APIs REST con Express y FastAPI, trabajo con PostgreSQL, MongoDB y Redis, y uso Docker para despliegues. También tengo conocimientos de frontend con React.
+Desarrollador con perfil front end. Construyo interfaces con React, TypeScript y Tailwind CSS. Lideré la migración de un sistema legado ASP.NET WebForms (VB.NET, MySQL) a una plataforma web moderna en Node.js, Express, MongoDB y React, desarrollando el módulo de Super Administración, la autenticación con control de acceso por roles y las pantallas de gestión.
 
 === APTITUDES (SKILLS) - PRIMERAS 10 ===
-1. Node.js
-2. JavaScript
-3. Python
-4. Express.js
-5. React
-6. PostgreSQL
-7. Docker
-8. Git
-9. REST APIs
-10. MongoDB
+1. React
+2. TypeScript
+3. JavaScript
+4. Tailwind CSS
+5. HTML/CSS
+6. Node.js
+7. Express
+8. MongoDB
+9. Git
+10. REST APIs

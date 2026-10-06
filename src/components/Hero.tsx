@@ -29,15 +29,17 @@ export default function Hero() {
               Martin Eduardo<br />Zapata Garcia
             </h1>
             <p className="text-lg md:text-xl text-muted">
-              Frontend &amp; Backend Developer
+              Front End Developer
             </p>
           </div>
         </div>
 
           <p className="text-muted max-w-[540px] leading-relaxed">
-            Desarrollo web fullstack: frontend con React y backend con
-            Node.js, Python y bases de datos SQL/NoSQL. Código limpio,
-            trabajo en equipo y aprendizaje constante.
+            Construyo interfaces con React, TypeScript y Tailwind CSS.
+            Lideré la migración de un sistema legado ASP.NET WebForms a un
+            sistema de gestión educativa con 7 perfiles y más de 40 pantallas,
+            en Node.js, Express, MongoDB y React. Código limpio, equipo y
+            aprendizaje constante.
           </p>
         <p className="text-muted mt-4 font-mono text-sm">
           $ Buscando mi primera oportunidad.
