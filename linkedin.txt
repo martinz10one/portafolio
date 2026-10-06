@@ -1,8 +1,8 @@
 === TÍTULO DE LINKEDIN ===
-Front End Developer | React · TypeScript · Tailwind CSS | Node.js · Express
+Full Stack Developer · Front End Focus | React · TypeScript · Tailwind CSS | Node.js · Express
 
 === ABOUT / RESUMEN ===
-Desarrollador con perfil front end. Construyo interfaces con React, TypeScript y Tailwind CSS. Lideré la migración de un sistema legado ASP.NET WebForms (VB.NET, MySQL) a una plataforma web moderna en Node.js, Express, MongoDB y React, desarrollando el módulo de Super Administración, la autenticación con control de acceso por roles y las pantallas de gestión.
+Desarrollador full stack con énfasis en front end. Construyo interfaces con React, TypeScript y Tailwind CSS y desarrollo el backend con Node.js, Express y MongoDB. Lideré la migración de un sistema legado ASP.NET WebForms (VB.NET, MySQL) a un sistema de gestión educativa con 7 perfiles de usuario y más de 40 pantallas, desarrollando el módulo de Dirección de Núcleo, la autenticación con control de acceso por roles y las pantallas de gestión.
 
 === APTITUDES (SKILLS) - PRIMERAS 10 ===
 1. React

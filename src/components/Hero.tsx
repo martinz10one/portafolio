@@ -29,17 +29,17 @@ export default function Hero() {
               Martin Eduardo<br />Zapata Garcia
             </h1>
             <p className="text-lg md:text-xl text-muted">
-              Front End Developer
+              Full Stack Developer · Front End
             </p>
           </div>
         </div>
 
           <p className="text-muted max-w-[540px] leading-relaxed">
-            Construyo interfaces con React, TypeScript y Tailwind CSS.
-            Lideré la migración de un sistema legado ASP.NET WebForms a un
-            sistema de gestión educativa con 7 perfiles y más de 40 pantallas,
-            en Node.js, Express, MongoDB y React. Código limpio, equipo y
-            aprendizaje constante.
+            Construyo interfaces con React, TypeScript y Tailwind CSS, y
+            desarrollo el backend con Node.js, Express y MongoDB. Lideré la
+            migración de un sistema legado ASP.NET WebForms a un sistema de
+            gestión educativa con 7 perfiles y más de 40 pantallas. Código
+            limpio, trabajo en equipo y aprendizaje constante.
           </p>
         <p className="text-muted mt-4 font-mono text-sm">
           $ Buscando mi primera oportunidad.

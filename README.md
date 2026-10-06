@@ -42,5 +42,5 @@ public/
 
 ---
 
-**Martin Eduardo Zapata Garcia** · Front End Developer
+**Martin Eduardo Zapata Garcia** · Full Stack Developer · Front End Focus
 [Portafolio](https://portafolio-martinone10.vercel.app) · [GitHub](https://github.com/martinz10one) · [LinkedIn](https://linkedin.com/in/martin-zapata-779086393)
