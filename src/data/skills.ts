@@ -18,7 +18,7 @@ export const skills: Skill[] = [
   { name: 'Linux', category: 'herramientas' },
   { name: 'Docker', category: 'herramientas' },
   { name: 'Vercel', category: 'herramientas' },
-  { name: 'OpenCode', category: 'herramientas' },
+  { name: 'Claude (IA y agentes)', category: 'herramientas' },
 ]
 
 export const skillCategories = [
